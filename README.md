@@ -1,2 +1,6 @@
 # Ethical-Implications-of-AI-Driven-Nudging
-Seminar paper for Ethics and Philosophy of AI @ FAU Erlangen-Nürnberg
+This is my seminar paper for the course 'Ethics and Philosophy of AI' at FAU Erlangen-Nürnberg, in which I discuss the ethical implications of AI-driven nudging from a data scientists point of view. 
+
+
+## Abstract
+This paper explores the implications of AI-driven nudging on user autonomy, focusing on the ethical challenges posed by personalized, data-driven interventions. Drawing on the theory of Libertarian Paternalism by Thaler and Sunstein, the discussion highlights how traditional nudges aimed at improving decision-making fundamentally differ from AI-powered nudges in their personalization and complexity. The key issues of opt-out availability and transparency are examined, demonstrating that the lack of straightforward opt-out mechanisms and the opaque nature of AI algorithms significantly constrain user autonomy. The role of Explainable AI (XAI) is analyzed as a potential solution to the transparency problem, emphasizing the need for interpretable models to ensure users can make informed choices. In conclusion, this essay supports the implementation of explainable algorithms - evenwith certain concerns - to promote an ethical AI landscape where user autonomy and transparent decision-making are prioritized.
